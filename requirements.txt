@@ -1,0 +1,8 @@
+streamlit
+boto3
+python-dotenv
+nest_asyncio
+langchain
+PyPDF2
+langchain-google-genai
+faiss-cpu
