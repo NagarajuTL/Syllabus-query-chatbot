@@ -1,6 +1,6 @@
 .env
-fiass_index /
-__pycache__ /
+fiass_index/
+__pycache__/
 metadata.json
 
 
