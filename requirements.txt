@@ -6,3 +6,4 @@ langchain
 PyPDF2
 langchain-google-genai
 faiss-cpu
+langchain-community
