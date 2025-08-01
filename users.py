@@ -100,8 +100,8 @@ branches = list(metadata.keys())
 
 
 
-branch = st.selectbox("Select Branch", branches)
-year = st.selectbox("Select Year", metadata.get(branch, []))
+branch = st.sidebar.selectbox("Select Branch", branches)
+year = st.sidebar.selectbox("Select Year", metadata.get(branch, []))
 user_question = st.text_input("Ask a question about the syllabus")
 
 if st.button("Get Answer") and user_question:
