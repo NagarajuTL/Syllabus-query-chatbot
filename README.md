@@ -1,6 +1,6 @@
 # Syllabus Query Chatbot
 
-This is a chatbot project where students can ask questions related to their college syllabus, like "What’s in Unit 2 of Power Electronics for EEE 2022?"  
+This is a chatbot project where students can ask questions related to their college syllabus.  
 Admins can upload syllabus PDFs for different branches and years. Students just pick their branch and year and start asking!
 
 
